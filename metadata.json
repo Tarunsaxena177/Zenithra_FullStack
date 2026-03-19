@@ -1,0 +1,5 @@
+{
+  "name": "Zenithra Hardware Quest",
+  "description": "A professional hardware interface dashboard for connecting to camera, microphone, and bluetooth devices.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
